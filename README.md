@@ -15,6 +15,6 @@ ro.product.product.name=r0sxxx
 
 # Fixes:
 03: Remove ESIM option from settings:
-Delete this file: privapp-permissions-com.samsung.euicc.xml
+Delete this file: privapp-permissions-com.samsung.euicc.xml             
 From:
 system/etc/permissions folder.
