@@ -1,6 +1,6 @@
 # Android-Tweak-And-Features:
 
-# Universal Build Prop Tweak:
+Universal Build Prop Tweak:
 
 01: Multi User: (system build.prop)
 fw.max_users=5            
