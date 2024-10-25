@@ -5,6 +5,7 @@
 01: Multi User:
 
 fw.max_users=5
+
 fw.show_multiuserui=1
 
 # Samsung Build Prop Tweak:
