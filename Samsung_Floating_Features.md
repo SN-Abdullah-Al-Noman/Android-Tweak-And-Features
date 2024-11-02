@@ -29,7 +29,7 @@
 # 08 : Get battery health and battery cycles in Settings.
 <SEC_FLOATING_FEATURE_BATTERY_SUPPORT_BSOH_SETTINGS>TRUE</SEC_FLOATING_FEATURE_BATTERY_SUPPORT_BSOH_SETTINGS>
 
-# 09 : Fix video editor in one ui without vendor support. Just keep videotrimmer value.
+# 09 : Fix video editor without vendor support. Just keep videotrimmer value.
 <SEC_FLOATING_FEATURE_COMMON_CONFIG_MULTIMEDIA_EDITOR_PLUGIN_PACKAGES>videotrimmer</SEC_FLOATING_FEATURE_COMMON_CONFIG_MULTIMEDIA_EDITOR_PLUGIN_PACKAGES>
 
 # 10 : Fix photo remaster in One UI ROM without vendor support.
