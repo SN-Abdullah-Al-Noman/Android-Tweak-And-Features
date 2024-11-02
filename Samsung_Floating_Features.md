@@ -32,7 +32,7 @@
 # 09 : Fix video editor without vendor support. Just keep videotrimmer value.
 <SEC_FLOATING_FEATURE_COMMON_CONFIG_MULTIMEDIA_EDITOR_PLUGIN_PACKAGES>videotrimmer</SEC_FLOATING_FEATURE_COMMON_CONFIG_MULTIMEDIA_EDITOR_PLUGIN_PACKAGES>
 
-# 10 : Fix photo remaster in One UI ROM without vendor support.
+# 10 : Fix photo remaster without vendor support.
 <SEC_FLOATING_FEATURE_SAIV_CONFIG_MIDAS>delete</SEC_FLOATING_FEATURE_SAIV_CONFIG_MIDAS>
 
 # 11 : Samsung Z fold type taskbar.
