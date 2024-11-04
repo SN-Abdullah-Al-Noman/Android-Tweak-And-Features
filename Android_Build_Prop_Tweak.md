@@ -10,7 +10,10 @@ fw.show_multiuserui=1
 01: Samsung Extra Dim: (system build.prop)
 ro.surface_flinger.protected_contents=true
 
-02: Galaxy Enhance X on unsupported device: (product build.prop)
+02 : S24 About Phone style (system build.prop)
+ril.support.dynamic_imei=true
+
+03: Galaxy Enhance X on unsupported device: (product build.prop)
 ro.product.product.name=r0sxxx
 
 # Fixes:
